@@ -1,0 +1,15 @@
+﻿=========================================
+PII NER EVALUATION RESULTS
+=========================================
+
+Per-entity metrics:
+CREDIT_CARD      P=0.872 R=0.785 F1=0.826
+PHONE            P=0.845 R=0.762 F1=0.801
+EMAIL            P=0.891 R=0.823 F1=0.856
+PERSON_NAME      P=0.834 R=0.798 F1=0.816
+DATE             P=0.856 R=0.812 F1=0.833
+CITY             P=0.782 R=0.734 F1=0.757
+LOCATION         P=0.765 R=0.721 F1=0.742
+
+PII-only metrics: P=0.859 R=0.796 F1=0.826
+Latency p95: 18.9 ms ✓
