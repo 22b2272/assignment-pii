@@ -1,0 +1,10 @@
+﻿{
+  "stress_001": [
+    {"start": 15, "end": 74, "label": "CREDIT_CARD", "pii": true},
+    {"start": 85, "end": 125, "label": "PHONE", "pii": true}
+  ],
+  "stress_002": [
+    {"start": 14, "end": 48, "label": "EMAIL", "pii": true},
+    {"start": 56, "end": 95, "label": "PHONE", "pii": true}
+  ]
+}

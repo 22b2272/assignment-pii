@@ -1,0 +1,15 @@
+﻿{
+  "utt_001": [
+    {"start": 15, "end": 45, "label": "CREDIT_CARD", "pii": true},
+    {"start": 60, "end": 85, "label": "PHONE", "pii": true}
+  ],
+  "utt_002": [
+    {"start": 25, "end": 55, "label": "EMAIL", "pii": true},
+    {"start": 70, "end": 85, "label": "PERSON_NAME", "pii": true}
+  ],
+  "utt_003": [
+    {"start": 8, "end": 22, "label": "PERSON_NAME", "pii": true},
+    {"start": 30, "end": 36, "label": "CITY", "pii": false},
+    {"start": 50, "end": 80, "label": "DATE", "pii": true}
+  ]
+}

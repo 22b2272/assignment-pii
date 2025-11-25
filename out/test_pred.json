@@ -1,0 +1,10 @@
+﻿{
+  "test_001": [
+    {"start": 11, "end": 24, "label": "PERSON_NAME", "pii": true},
+    {"start": 38, "end": 44, "label": "CITY", "pii": false}
+  ],
+  "test_002": [
+    {"start": 56, "end": 95, "label": "PHONE", "pii": true},
+    {"start": 100, "end": 125, "label": "EMAIL", "pii": true}
+  ]
+}
